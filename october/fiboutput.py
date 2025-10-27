@@ -1,0 +1,2 @@
+import fiboimport
+fiboimport.fibonacci
